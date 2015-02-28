@@ -10,7 +10,7 @@ public class Vertice{
 		this.y = y;
 	}
 
-	public int get(){
+	public int getX(){
 		return x;
 	}
 	public void setX(int x){
